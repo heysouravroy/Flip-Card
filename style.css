@@ -15,12 +15,12 @@ body a {
     position: absolute;
     top: 50%;
     left: 50%;
-    height: 400px;
-    width: 300px;
+    height: 401px;
+    width: 301px;
     transform: translate(-50%, -50%);
     transform-style: preserve-3d;
-    perspective: 600px;
-    transition: 0.5s;
+    perspective: 601px;
+    transition: 0.6s;
 }
 
 .card:hover .card-front {
